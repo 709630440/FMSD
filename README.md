@@ -24,6 +24,18 @@ The overall framework aims to improve cross-dataset and cross-manipulation gener
 
 ---
 
+
+## Framework
+
+The overall architecture of FMSD is illustrated below.
+
+<p align="center">
+  <img src="framework.png" width="900">
+</p>
+
+FMSD consists of two main components: Forgery-aware Layer Masking and Multi-Artifact Subspace Decomposition.
+
+
 ## Demo
 
 A simple face image forgery detection system is provided to demonstrate the inference process of FMSD.
@@ -222,11 +234,11 @@ The download link will be added here when available.
 If you find this project useful for your research, please consider citing our work:
 
 ```bibtex
-@article{FMSD,
-  title   = {Forgery-aware Layer Masking and Multi-Artifact Subspace Decomposition for Generalizable Deepfake Detection},
-  author  = {Anonymous},
-  journal = {IEEE Transactions on Information Forensics and Security},
-  year    = {2026}
+@inproceedings{Zhang2026GeneralizableDD,
+  title={Generalizable Deepfake Detection Based on Forgery-aware Layer Masking and Multi-artifact Subspace Decomposition},
+  author={Xiang Zhang and Wenliang Weng and Daoyong Fu and Bei-Jing Chen and Zi-Qiang Li and Zi-Wen He and Zhangjie Fu},
+  year={2026},
+  url={https://api.semanticscholar.org/CorpusID:284488549}
 }
 ```
 
