@@ -30,7 +30,7 @@ The overall framework aims to improve cross-dataset and cross-manipulation gener
 The overall architecture of FMSD is illustrated below.
 
 <p align="center">
-  <img src="framework.png" width="900">
+  <img src="framework.jpg" width="900">
 </p>
 
 FMSD consists of two main components: Forgery-aware Layer Masking and Multi-Artifact Subspace Decomposition.
